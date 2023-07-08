@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 490 490"
+     viewBox="0 0 490 490">
+<!--  https://joyofcode.xyz/dark-mode-favicon  -->
+    <style>
+        path {
+            fill: black;
+        }
+        @media (prefers-color-scheme: dark) {
+            path {
+                fill: white;
+            }
+        }
+    </style>
+    <path d="M0 456.701h490L245 33.299 0 456.701zm137.318-77.197L245 193.409l107.682 186.094H137.318z"/>
+</svg>
