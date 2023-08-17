@@ -1,6 +1,6 @@
 {
-  "name": "greyhame",
-  "version": "0.1.0",
+  "name": "soweirdunion",
+  "version": "0.2.0",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -48,5 +48,5 @@
   "devDependencies": {
     "gh-pages": "^5.0.0"
   },
-  "homepage": "https://greyhame.net"
+  "homepage": "https://soweirdunion.com"
 }
